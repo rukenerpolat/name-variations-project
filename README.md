@@ -8,7 +8,7 @@ The project serves as an educational tool to demonstrate string manipulation tec
 ## ✨ Features
 
 - Displays the **number of characters** in the name
-- Extracts and shows the **first** and **last character**
+- Shows the **first** and **last character**
 - Converts the input to **lowercase** and **uppercase**
 - Capitalizes the name (first letter uppercase, rest lowercase)
 - Real-time updates as the user types
