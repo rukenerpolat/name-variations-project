@@ -26,7 +26,7 @@ name-variations-project/
 │
 ├── index.html       
 ├── styles.css    
-├── script.js        
+├── index.js        
 └── README.md        
 ```
 
